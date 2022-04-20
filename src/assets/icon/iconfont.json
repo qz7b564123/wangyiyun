@@ -1,0 +1,100 @@
+{
+  "id": "3323894",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "36572",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "36574",
+      "name": "下一首",
+      "font_class": "kuaijin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "749822",
+      "name": "iconfont-shipin",
+      "font_class": "iconfontshipin",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "7592572",
+      "name": "24gf-headset",
+      "font_class": "24gf-headset",
+      "unicode": "ea0e",
+      "unicode_decimal": 59918
+    },
+    {
+      "icon_id": "1029",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "159235",
+      "name": "本地音乐",
+      "font_class": "bendiyinle",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "577350",
+      "name": "朋友",
+      "font_class": "pengyou",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "768731",
+      "name": "视频问诊",
+      "font_class": "shouye",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "11372739",
+      "name": "直播",
+      "font_class": "zhibo",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
+    },
+    {
+      "icon_id": "13211730",
+      "name": "05.1_下载管理_下载",
+      "font_class": "_xiazaiguanli_xiazai",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "16194979",
+      "name": "音乐云盘_52",
+      "font_class": "yinleyunpan_52",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "18446083",
+      "name": "频率",
+      "font_class": "pinshuai",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    }
+  ]
+}
